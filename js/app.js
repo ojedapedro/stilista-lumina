@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // 2. Configuración del número de teléfono
         // IMPORTANTE: Cambia este número por el de la estética
-        const telefonoEstetica = "5215512345678"; 
+        const telefonoEstetica = "584144415403"; 
 
         // 3. Validar datos básicos (Opcional pero recomendado)
         if(!nombre || !fecha || !hora) {
